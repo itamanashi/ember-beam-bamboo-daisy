@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Repertoire Studio",
+      "hasCanvas": false,
+      "bodyTextLen": 981,
+      "bodyTextHash": "a6142ebbef8b71efacb8a378e9724b64ed3490d1f0b16c6a0f929119a6bcbcec",
+      "bodyTextPrefix": "OPENING PREPARATION Repertoire Studio Build a line, drill it aga",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Repertoire Studio",
+      "hasCanvas": false,
+      "bodyTextLen": 981,
+      "bodyTextHash": "a6142ebbef8b71efacb8a378e9724b64ed3490d1f0b16c6a0f929119a6bcbcec",
+      "bodyTextPrefix": "OPENING PREPARATION Repertoire Studio Build a line, drill it aga",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
